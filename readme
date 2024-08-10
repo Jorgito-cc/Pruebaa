@@ -1,0 +1,15 @@
+// estructura que se sige 
+/* 
+    # controllers
+    product.js
+    User.js
+#models
+    prodcut.js
+    user .js 
+
+#viewa
+    prodcut.hbs
+    user.hbs 
+
+
+*/
